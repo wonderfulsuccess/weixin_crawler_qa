@@ -47,7 +47,7 @@
 
 # 尚未解决的问题
 
-- [ ]  appmsg_token能实现实时获取 @wonderfulsuccess@163.com
+- [ ] 如何才能实现appmsg_token的自动获取，而不是坐等过去最后提示无法获取到阅读量等信息 @wonderfulsuccess@163.com
 
 # 数据爬取
 
